@@ -1,0 +1,3 @@
+I am building an on-demand movie streaming platform. 
+users can visit and search for a movie of their choice and get access to such movies.
+they can either stream from the website or download to the devices
